@@ -28,7 +28,7 @@ define('DB_HOST', 'localhost');
 } else {
 	// Live database settings
 define('DB_NAME', 'mellisam_universitydata');
-define('DB_USER', 'mellisam_wp1290');
+define('DB_USER', 'mellisam_wp837');
 define('DB_PASSWORD', 'Shadow009087');
 define('DB_HOST', 'localhost');
 }
