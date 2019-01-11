@@ -27,7 +27,7 @@ define('DB_PASSWORD', 'root');
 define('DB_HOST', 'localhost');
 } else {
 	// Live database settings
-define('DB_NAME', 'mellisa6_universitydata');
+define('DB_NAME', 'mellisa6_universitydatas');
 define('DB_USER', 'mellisa6_wp1290');
 define('DB_PASSWORD', 'Shadow009087');
 define('DB_HOST', 'localhost');
