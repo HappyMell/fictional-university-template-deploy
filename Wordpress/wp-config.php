@@ -1,4 +1,6 @@
 <?php
+
+define('WP_MEMORY_LIMIT', '64M');
 /**
  * The base configuration for WordPress
  *
