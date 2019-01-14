@@ -1,6 +1,6 @@
 <?php
 
-define ('WP_MEMORY_LIMIT', '128M');
+
 /**
  * The base configuration for WordPress
  *
@@ -29,8 +29,8 @@ define('DB_PASSWORD', 'root');
 define('DB_HOST', 'localhost');
 } else {
 	// Live database settings
-define('DB_NAME', 'mellisam_universitydata');
-define('DB_USER', 'mellisam_wp837');
+define('DB_NAME', 'mellisam_universitydata2');
+define('DB_USER', 'mellisam_wp1290');
 define('DB_PASSWORD', 'Shadow009087');
 define('DB_HOST', 'localhost');
 }
@@ -86,12 +86,6 @@ $table_prefix  = 'wp_';
  // Enable WP_DEBUG mode
 define( 'WP_DEBUG', true );
 
-// Enable Debug logging to the /wp-content/debug.log file
-define( 'WP_DEBUG_LOG', true );
-
-// Disable display of errors and warnings 
-define( 'WP_DEBUG_DISPLAY', false );
-@ini_set( 'display_errors', 0 );
 
 /* That's all, stop editing! Happy blogging. */
 

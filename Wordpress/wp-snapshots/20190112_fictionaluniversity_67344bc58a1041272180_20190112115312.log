@@ -1,0 +1,82 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 12th January 2019 11:53 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.2
+WORDPRESS:	5.0.1
+PHP INFO:	7.2.1 | SAPI: apache2handler
+SERVER:		Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2h mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.2.1 mod_perl/2.0.8 Perl/v5.16.3 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 6MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20190112_fictionaluniversity_67344bc58a1041272180_20190112115312_database.sql 
+SQL FILE SIZE: 780.12KB (798843) 
+SQL FILE TIME: 2019-01-12 11:53:23 
+SQL RUNTIME: 0.64 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/MAMP/htdocs/Wordpress 
+ARCHIVE FILE: 20190112_fictionaluniversity_67344bc58a1041272180_20190112115312_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	0B 
+STATS:	Dirs 0 | Files 0 
+SQL ADDED: 20190112_fictionaluniversity_67344bc58a1041272180_20190112115312_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1
+    [filename] => C:\MAMP\htdocs\Wordpress\wp-snapshots\tmp\20190112_fictionaluniversity_67344bc58a1041272180_20190112115312_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 174.56KB 
+ARCHIVE RUNTIME: 0.09 sec. 
+MEMORY STACK: 6MB 
+building installer 
+add_extra_files1 
+add_extra_files2 
+add_extra_files3 
+add_extra_files4 
+Doing archive file check 
+add_extra_files5 
+add_extra_files6 
+add_extra_files8 
+Successfully opened zip C:/MAMP/htdocs/Wordpress/wp-snapshots/tmp/20190112_fictionaluniversity_67344bc58a1041272180_20190112115312_archive.zip 
+Adding enhanced installer files to archive using ZipArchive 
+Installer files added to archive 
+Added to archive 
+After ziparchive close when adding installer 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 780.12KB 
+Installer File: 32.96KB 
+Archive File: 1010.98KB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 1.90 sec.
+PEAK PHP MEMORY USED: 8MB
+DONE PROCESSING => 20190112_fictionaluniversity 12th January 2019 11:53 am
+ 
