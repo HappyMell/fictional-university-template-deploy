@@ -106,7 +106,7 @@
       <div class="hero-slider__overlay">
         <h2 class="headline headline--medium t-center">Free Transportation</h2>
         <p class="t-center">All students have free unlimited bus fare.</p>
-        <p class="t-center no-margin"><a href="#" class="btn btn--blue">Learn more</a></p>
+        <p class="t-center no-margin"><a href="<?php echo site_url('/transportation'); ?>" class="btn btn--blue">Learn more</a></p>
       </div>
     </div>
   </div>
@@ -115,7 +115,7 @@
       <div class="hero-slider__overlay">
         <h2 class="headline headline--medium t-center">An Apple a Day</h2>
         <p class="t-center">Our dentistry program recommends eating apples.</p>
-        <p class="t-center no-margin"><a href="#" class="btn btn--blue">Learn more</a></p>
+        <p class="t-center no-margin"><a href="<?php echo site_url('/dental'); ?>" class="btn btn--blue">Learn more</a></p>
       </div>
     </div>
   </div>
@@ -124,7 +124,7 @@
       <div class="hero-slider__overlay">
         <h2 class="headline headline--medium t-center">Free Food</h2>
         <p class="t-center">Fictional University offers lunch plans for those in need.</p>
-        <p class="t-center no-margin"><a href="#" class="btn btn--blue">Learn more</a></p>
+        <p class="t-center no-margin"><a href="<?php echo site_url('/food-plans'); ?>" class="btn btn--blue">Learn more</a></p>
       </div>
     </div>
   </div>
